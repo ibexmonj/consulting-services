@@ -52,6 +52,6 @@ Want to talk? No sales pitch, no fluff—just a technical conversation to see if
 📩 **Email:** [reachmonj@gmail.com](mailto:reachmonj@gmail.com)  
 💬 **LinkedIn:** [linkedin.com/in/devnullshenoy](https://www.linkedin.com/in/devnullshenoy/)  
 👨‍💻 **GitHub:** [github.com/ibexmonj](https://github.com/ibexmonj)
-🗓️ **Calendar** Grab time on my calendar here:[calendly.com/reachmanju/30min] (https:calendly.com/reachmanju/30min)
+🗓️ **Calendar** Grab time on my calendar here:[calendly.com/reachmanju/30min](https:calendly.com/reachmanju/30min)
 
 ----
