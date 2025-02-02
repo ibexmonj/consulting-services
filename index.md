@@ -32,7 +32,7 @@ I thrive on diagnosing **weird, annoying, and hard-to-trace** technical problems
 - **Internal Developer Tooling:** Platform engineering, self-service infra, making engineers’ lives easier.  
 - **Performance & Scale:** Load balancing, network optimization, debugging weird CPU/memory behavior.  
 - **Security & Access Control:** RBAC, IAM, secrets management, Vault, SSO.  
-- **CI/CD & Automation:** GitHub Actions, Jenkins, Spinnaker, pipelines that actually work.  
+- **CI/CD & Automation:** GitHub Actions, Jenkins, Tekton, pipelines that actually work.
 - **Networking & DNS:** BGP, NAT, “why is this ingress not routing traffic” mysteries.  
 
 ---
