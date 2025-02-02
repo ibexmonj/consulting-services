@@ -13,7 +13,7 @@ What actually matters? The person behind those titles and the way they approach 
 
 ### **What I Believe**
 📌 **Tools don’t solve problems. People do.**  
-Most tech challenges stem from **process issues**, not just the tools themselves.  
+Most tech challenges aren’t about tools at all—they’re about process. Tools only work when the people and workflows behind them do.
 
 📌 **I don’t believe in “experts in everything.”**  
 I’ve worked across many domains, but if you expect someone who’s 100% up-to-date on everything—keep looking.  
