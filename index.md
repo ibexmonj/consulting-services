@@ -29,7 +29,7 @@ I thrive on diagnosing **weird, annoying, and hard-to-trace** technical problems
 - **Infrastructure & Provisioning:** Terraform, Kubernetes, Helm, ArgoCD, GitOps.  
 - **Cloud & On-Prem:** AWS, GCP, bare metal, hybrid setups.  
 - **Configuration Management:** Ansible, Puppet, Salt, homegrown chaos.  
-- **Internal Developer Tooling:** Platform engineering, self-service infra, making engineers’ lives easier.  
+- **Internal Developer Tooling:** Built and maintained platform tooling in Go, Python, and Bash to automate infrastructure, improve deployments, and reduce cognitive load—because good tooling should make engineers’ lives easier, not harder.
 - **Performance & Scale:** Load balancing, network optimization, debugging weird CPU/memory behavior.  
 - **Security & Access Control:** RBAC, IAM, secrets management, Vault, SSO.  
 - **CI/CD & Automation:** GitHub Actions, Jenkins, Tekton, pipelines that actually work.
