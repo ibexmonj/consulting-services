@@ -1,6 +1,4 @@
-/yourprofile)  
-
------
+---
 title: "Kubernetes & Infrastructure Consulting"
 layout: default
 ---
